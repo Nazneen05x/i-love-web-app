@@ -1,6 +1,7 @@
 <header>
   <ul>
     <li><p>i</p></li>
+    <!-- https://www.flaticon.com/free-icons/heart" title="heart icons">Heart icons created by Freepik - Flaticon -->
     <li><img src="/love.png" alt="love" width="50em" height="auto" /></li>
     <li><p>web-app</p></li>
     <li><a href="#"></a>About me</li>
